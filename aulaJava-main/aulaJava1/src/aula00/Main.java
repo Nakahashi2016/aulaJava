@@ -2,9 +2,9 @@ package aula00;
 
 public class Main {
     public static void main(String[] args) {
-        aula05.Veiculo A = new aula05.Veiculo("Honda", "Biz");
-        aula05.Carro B = new aula05.Carro("Toyota", "Corolla", 4, 2);
-        aula05.Moto C = new aula05.Moto("Honda", "Hornet", 1, 6);
+        aula03.Veiculo A = new aula03.Veiculo("Honda", "Biz");
+        aula03.Carro B = new aula03.Carro("Toyota", "Corolla", 4, 2);
+        aula03.Moto C = new aula03.Moto("Honda", "Hornet", 1, 6);
 
         A.exibirDados();
         B.exibirDados();
