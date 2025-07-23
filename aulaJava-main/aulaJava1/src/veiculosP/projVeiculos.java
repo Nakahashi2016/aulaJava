@@ -1,6 +1,6 @@
-package aula00;
+package veiculosP;
 
-    public class aula03 {
+    public class projVeiculos {
 
         static class Veiculo {
             String marca, modelo;
@@ -51,9 +51,9 @@ package aula00;
 
 
         public static void main(String[] args) {
-            aula03.Veiculo A = new aula03.Veiculo("Honda", "Biz");
-            aula03.Carro B = new aula03.Carro("Toyota", "Corolla", 4, 2);
-            aula03.Moto C = new aula03.Moto("Honda", "Hornet", 1, 6);
+            projVeiculos.Veiculo A = new projVeiculos.Veiculo("Honda", "Biz");
+            projVeiculos.Carro B = new projVeiculos.Carro("Toyota", "Corolla", 4, 2);
+            projVeiculos.Moto C = new projVeiculos.Moto("Honda", "Hornet", 1, 6);
 
             A.exibirDados();
             B.exibirDados();

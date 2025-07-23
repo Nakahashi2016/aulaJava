@@ -1,4 +1,4 @@
-package atividades;
+package aulas;
 
 public class Matematica {
 
