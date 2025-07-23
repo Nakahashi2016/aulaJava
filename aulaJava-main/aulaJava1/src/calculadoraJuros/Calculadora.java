@@ -11,7 +11,7 @@ public class Calculadora {
         System.out.print("Informe o capital inicial (ex: 1000): ");
         double capital = scanner.nextDouble();
 
-        System.out.print("Informe a taxa de juros (ex: 0.05 para 5%): ");
+        System.out.print("Informe a taxa de juros (ex: 0,05 para 5%): ");
         double taxa = scanner.nextDouble();
 
         System.out.print("Informe o tempo (em meses ou anos): ");

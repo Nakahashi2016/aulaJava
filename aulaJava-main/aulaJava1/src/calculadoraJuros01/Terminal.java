@@ -3,7 +3,7 @@ package calculadoraJuros01;
 import java.util.Scanner;
 
 /*
-Comentado: código antigo que lê dois números inteiros e soma.
+
 public class Terminal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -20,6 +20,7 @@ public class Terminal {
         scanner.close();
     }
 }
+
 */
 
 
